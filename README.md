@@ -11,6 +11,12 @@
 #### №2 Bubble sort
 * [**Code example**](bubbleSort.js)
 * [**Presentation**](https://drive.google.com/file/d/1fMKVq7psTfVDwQasSErmuaN2LN71eb6c/view?usp=sharing)
+#### №3 Selection sort
+* [**Code example**](selectionSort.js)
+* [**Presentation**](https://drive.google.com/file/d/1dz2YfB-baUEMhdZbSTqEXHCKrR9QT7pU/view?usp=sharing)
+#### №4 Recursion
+* [**Code example**](recursion.js)
+* [**Presentation**](https://drive.google.com/file/d/1j2iYxwMy0NBxZkmjp_dRUBIyORY2Gkfb/view?usp=sharing)
 ***
 ###### Repository of @maryiafrantsava-deriv
 
