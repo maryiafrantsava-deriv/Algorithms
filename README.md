@@ -14,7 +14,7 @@
 #### №3 Selection sort
 * [**Code example**](selectionSort.js)
 * [**Presentation**](https://drive.google.com/file/d/1dz2YfB-baUEMhdZbSTqEXHCKrR9QT7pU/view?usp=sharing)
-#### №4 Selection sort
+#### №4 Recursion
 * [**Code example**](recursion.js)
 * [**Presentation**](https://drive.google.com/file/d/1j2iYxwMy0NBxZkmjp_dRUBIyORY2Gkfb/view?usp=sharing)
 ***
