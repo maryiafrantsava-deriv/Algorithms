@@ -3,20 +3,22 @@
 </p>
 
 :white_check_mark: &nbsp; Explaination the most basic algorithms in an accessible and understandable way.
-
+* [***here -> Presentation***](https://drive.google.com/file/d/1GQ_h4BOjkOoFCMc9xQ3vSNsU4bD9zrmK/view?usp=sharing)
 
 #### №1 Binary search 
 * [**Code example**](binarySearch.js)
-* [**Presentation**](https://drive.google.com/file/d/1Ev5eenEnTzozpw42dt_bp7yIfKo0qu1-/view?usp=sharing)
 #### №2 Bubble sort
 * [**Code example**](bubbleSort.js)
-* [**Presentation**](https://drive.google.com/file/d/1fMKVq7psTfVDwQasSErmuaN2LN71eb6c/view?usp=sharing)
 #### №3 Selection sort
 * [**Code example**](selectionSort.js)
-* [**Presentation**](https://drive.google.com/file/d/1dz2YfB-baUEMhdZbSTqEXHCKrR9QT7pU/view?usp=sharing)
 #### №4 Recursion
 * [**Code example**](recursion.js)
-* [**Presentation**](https://drive.google.com/file/d/1j2iYxwMy0NBxZkmjp_dRUBIyORY2Gkfb/view?usp=sharing)
+#### №5 Insertion Sort
+* [**Code example**](insertionSort.js)
+#### №6 Quick Sort
+* [**Code example**](quickSort.js)
+#### №7 Merge Sort
+* [**Code example**](mergeSort.js)
 ***
 ###### Repository of @maryiafrantsava-deriv
 
