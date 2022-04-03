@@ -1,18 +1,12 @@
-function factorial(x) {
-    if (x === 0) {
-        return 1;
+ const factorial = (n) => {
+     //calling factorial() if n is non-negative
+    if(n <= 0){
+        return 'Factorial is a function defined on the set of ' +
+                'non-negative values of numbers.';
     }
-
-    // if number is positive
-    else {
-        return x * factorial(x - 1);
+    if (n === 1){
+        return n;
     }
-}
-
-const num = 3;
-
-// calling factorial() if num is non-negative
-if (num > 0) {
-    let result = factorial(num);
-    console.log(`The factorial of ${num} is ${result}`);
-}
+    return n * factorial(n-1);
+ }
+console.log(factorial(3));
